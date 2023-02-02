@@ -1,8 +1,10 @@
-# Getting Started with Create React App
+# Getting Started with nft Minting page with whitelisted, presale and sale stage
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was Nft minting site with Solidity smart contract.
 
-## Available Scripts
+## [deploying on vercel](nft-space-frontend-3qwo4fzh5-leopico.vercel.app)
+
+In the project directory, you can run:
 
 In the project directory, you can run:
 
