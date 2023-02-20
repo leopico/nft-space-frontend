@@ -16,6 +16,17 @@ npm install
 npm start
 ```
 
+## Acknowledgements
+
+ - [react](https://reactjs.org/).
+ - [ether.js](https://docs.ethers.org/v6/)
+
+
+## Tech Stack
+
+
+**Client:** React, react-router-dom and react-libiaries, Ethers.js,bootstrapv5
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
